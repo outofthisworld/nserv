@@ -1,0 +1,19 @@
+{
+  "name": "myserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-to-js": "^2.0.1",
+    "ip": "^1.1.5",
+    "node-gameloop": "^0.1.4",
+    "protocol-buffers": "^4.0.4",
+    "protocol-buffers-encodings": "^1.1.0",
+    "winston": "^3.0.0"
+  }
+}

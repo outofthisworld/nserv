@@ -1,0 +1,6 @@
+
+message Packet {
+    required int32 id = 1;
+    optional int32 length = 2;
+    optional bytes payload = 3;
+}
